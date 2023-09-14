@@ -13,7 +13,7 @@ Atualmente venho me dedicando a aprender sobre Banco de Dados e áreas afins.
 - HTML e CSS
 
 
-### email para contato
+### E-mail
 
 📫 lucasgbcorrea1@hotmail.com
 
