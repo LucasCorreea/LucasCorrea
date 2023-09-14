@@ -1,6 +1,6 @@
 ### Olá, me chamo Lucas Gabriel
 
-Tenho 22 anos, e atuamente fazendo graduação em Engenharia da Computação pela UNISAL
+Tenho 22 anos, e atuamente fazendo graduação em Engenharia da Computação pela UNISAL.
 
 
 Atualmente venho me dedicando a aprender sobre Banco de Dados e áreas afins.
