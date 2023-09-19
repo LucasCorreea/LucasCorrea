@@ -3,11 +3,12 @@
 Tenho 22 anos, e atuamente fazendo graduação em Engenharia da Computação pela UNISAL.
 
 
-Atualmente venho me dedicando a aprender sobre Banco de Dados e áreas afins.
+Atualmente venho me dedicando a aprender sobre Analise de dados e aprimorar cada vez mais meus conhecimentos
+sobre tais competencias.
 
 
-### Linguagens e Dados
-- MySQL
+### Data Science and Developer
+- SQL and Data Analyst
 - Power BI
 - Modelagem de Dados
 - HTML e CSS
