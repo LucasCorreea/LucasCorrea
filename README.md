@@ -14,13 +14,14 @@ Atualmente venho no meu 4º Semestre da faculdade de Eng. da Computação, me de
 - SQL and Data Analyst
 - Power BI
 - Modelagem de Dados
-- HTML e CSS
+
 
 ### Developer
 - Java
 - Javascript
 - Python
 - C++
+- HTML e CSS
 
 
 ### E-mail
