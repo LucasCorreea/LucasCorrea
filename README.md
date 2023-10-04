@@ -3,7 +3,7 @@
 Tenho 23 anos, e atuamente fazendo graduação em Engenharia da Computação pela UNISAL.
 
 
-Desde novo tenho interesse em computação, onde ja fiz um curso com certificação em Hardware/Informatica, onde continuei aprendendo cada vez mais com experiencias computadores proprios. 
+Desde novo tenho interesse em computação, onde ja fiz um curso com certificação em Hardware/Informatica, onde continuei aprendendo cada vez mais com experiencias em computadores proprios. 
 
 Me formei no ano de 2019 pelo SENAI, onde aprendi como ser um profissional, tendo pratica em aréa Mêcanica.
 
