@@ -1,17 +1,22 @@
 ### Olá, me chamo Lucas Gabriel
 
-Tenho 22 anos, e atuamente fazendo graduação em Engenharia da Computação pela UNISAL.
+Tenho 23 anos, e atuamente fazendo graduação em Engenharia da Computação pela UNISAL.
 
 
-Atualmente venho me dedicando a aprender sobre Analise de dados e aprimorar cada vez mais meus conhecimentos
-sobre tais competencias.
+Desde novo tenho interesse em computação, onde ja fiz um curso com certificação em Hardware/Informatica, onde segui aprendendo cada vez mais com experiencias computadores proprios. Me formei no ano de 2019 pelo SENAI, onde aprendi como ser um profissional, tendo pratica em aréa Mêcanica, e atualmente venho no meu 4º Semestre da faculdade de Eng. da Computação, me dedicando a aprender sobre Analise de dados e Programação e sempre aprimorando cada vez mais meus conhecimentos sobre tais competencias com cursos foras da faculdade, como Udemy e Alura.
 
 
-### Data Science and Developer
+### Data Science
 - SQL and Data Analyst
 - Power BI
 - Modelagem de Dados
 - HTML e CSS
+
+### Developer
+- Java
+- Javascript
+- Python
+- C++
 
 
 ### E-mail
@@ -28,7 +33,4 @@ sobre tais competencias.
 <a href="https://www.linkedin.com/in/lucas-gabriel-bento-correa-951136237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucascorrea" height="30" width="40" /></a>
 
 
-
-<h3>Linguagens Programação</h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank">
 
