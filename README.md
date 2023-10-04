@@ -7,7 +7,7 @@ Desde novo tenho interesse em computação, onde ja fiz um curso com certificaç
 
 Me formei no ano de 2019 pelo SENAI, onde aprendi como ser um profissional, tendo pratica em área Mecânica.
 
-Atualmente venho no meu 4º Semestre da faculdade de Eng. da Computação, me dedicando a aprender sobre Analise de dados e Programação e sempre aprimorando cada vez mais meus conhecimentos sobre tais competencias com cursos foras da faculdade, como Udemy e Alura.
+Atualmente venho no meu 4º Semestre da faculdade de Eng. da Computação, me dedicando a aprender sobre Analise de dados e Programação e sempre aprimorando cada vez mais meus conhecimentos sobre tais competencias com cursos por fora, como Udemy e Alura.
 
 
 ### Data Science
