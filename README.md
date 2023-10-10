@@ -1,13 +1,12 @@
 ### Olá, me chamo Lucas Gabriel
 
-Tenho 23 anos, e atuamente fazendo graduação em Engenharia da Computação pela UNISAL.
+Tenho 23 anos, e atualmente fazendo graduação em Engenharia da Computação pela UNISAL.
 
-
-Desde novo tenho interesse em computação, onde ja fiz um curso com certificação em Hardware/Informatica, onde continuei aprendendo cada vez mais com experiencias em computadores proprios. 
+Desde novo tenho interesse em computação, onde já fiz um curso com certificação em Hardware/Informática, onde continuei aprendendo cada vez mais com experiencias em computadores próprios.
 
 Me formei no ano de 2019 pelo SENAI, onde aprendi como ser um profissional, tendo pratica em área Mecânica.
 
-Atualmente venho no meu 4º Semestre da faculdade de Eng. da Computação, me dedicando a aprender sobre Analise de dados e Programação e sempre aprimorando cada vez mais meus conhecimentos sobre tais competencias com cursos por fora, como Udemy e Alura.
+Atualmente venho no meu 4º Semestre da faculdade de Eng. da Computação, me dedicando a aprender sobre Analise de dados e Programação e sempre aprimorando cada vez mais meus conhecimentos sobre tais competências com cursos por fora, como Udemy e Alura.
 
 
 ### Data Science
